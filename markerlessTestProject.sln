@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "markerlessTestProject", "Assembly-CSharp.csproj", "{CEC1F978-0048-1A2E-DCA4-9A16D0EF033A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC1F978-0048-1A2E-DCA4-9A16D0EF033A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC1F978-0048-1A2E-DCA4-9A16D0EF033A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC1F978-0048-1A2E-DCA4-9A16D0EF033A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC1F978-0048-1A2E-DCA4-9A16D0EF033A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
